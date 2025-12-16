@@ -8,7 +8,7 @@
             "name": "C/C++ Debug (gdb Launch)",
             "type": "cppdbg",
             "request": "launch",
-            "program": "enter program name, for example: ${workspaceFolder}/a.out",
+            "program": "${workspaceFolder}/exp3.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
